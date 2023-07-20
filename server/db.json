@@ -1,0 +1,307 @@
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "title": "Puma Power Colorblock Full-Zip Hoodie F",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 7,
+      "price": 2990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE380301_18846072_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE380301_18846073_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE380301_18846074_3_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE380301_18846075_4_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Худи Classics Logo Hoodie TR B Puma Black",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 7,
+      "price": 4990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE381101_18838616_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE381101_18838617_2_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACE381101_18838618_3_v1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Футболка Nike Sportswear Men s T-Shirt",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 1,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR846801_20255443_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR846801_20255444_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR846801_20255445_3_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Лонгслив Plain L/S T-Shirt",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 1,
+      "price": 2990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1RLZ1_15221038_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1RLZ1_15221039_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1RLZ1_15221040_3_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Han Kjobenhavn",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 2,
+      "price": 92990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR190701_20170289_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR190701_20170290_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR190701_20170291_3_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACR190701_20170292_4_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Han Kjobenhavn",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 2,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACN122901_19679535_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACN122901_19679536_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACN122901_19679537_3_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACN122901_19679538_4_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Шорты спортивные U ARKD3 SHORT",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 3,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABB055201_16195810_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABB055201_16195811_2_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABB055201_16195812_3_v1.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Шорты спортивные UA RUN ANYWHERE SHORT",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 3,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACO077701_19576915_1_v2_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACO077701_19576916_2_v2_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACO077701_19576917_3_v2_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACO077701_19900017_4_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Кроссовки Air Max 270 Women's Shoe",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 4,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACK621501_19385015_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACK621501_19425980_9_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACK621501_19385016_2_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLACK621501_19385232_3_v1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Кроссовки REACT ELEMENT 55 WOMEN'S SHOE",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 4,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABZ409001_19422030_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABZ409001_19464563_9_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABZ409001_19422032_3_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABZ409001_19422033_4_v1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Носки 3 пары SOLID CREW SOCK",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 5,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/A/D/AD093FUQIM20_4452830_1_v3.jpg",
+        "https://a.lmcdn.ru/img600x866/A/D/AD093FUQIM20_4452831_2_v3.jpg",
+        "https://a.lmcdn.ru/img600x866/A/D/AD093FUQIM20_4452832_3_v3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Носки 3 пары CL FO Crew Sock 3P",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 5,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/E/RE005FUJMJW0_11626016_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/E/RE005FUJMJW0_11626017_2_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/E/RE005FUJMJW0_11626018_3_v1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Ветровка Zip Through Hooded Jacket",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 6,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HHAI_13963955_1_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HHAI_13963956_2_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HHAI_13963957_3_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HHAI_13963959_5_v1_2x.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Футболка Nike Sportswear Men s T-Shirt",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 6,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM08YRX_18182205_1_v1.jpeg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM08YRX_18182206_2_v1.jpeg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM08YRX_18182208_5_v1.jpeg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XM08YRX_18182207_3_v1.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Очки солнцезащитные PLD 2050/S 807",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 8,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABI733201_16840034_1_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABI733201_16851264_9_v1_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABI733201_16840035_2_v1.jpg",
+        "https://a.lmcdn.ru/img600x866/R/T/RTLABI733201_16840036_3_v1.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Очки солнцезащитные CLIP-ON ",
+      "decr": "Толстовка Puma Power Colorblock Full-Zip Hoodie FL на флисе",
+      "type": 8,
+      "price": 3990,
+      "favorite": false,
+      "imgs": [
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XU04ZUP_17113629_1_v3.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XU04ZUP_17107459_9_v3_2x.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XU04ZUP_17113630_2_v3.jpg",
+        "https://a.lmcdn.ru/img600x866/M/P/MP002XU04ZUP_17113632_4_v3.jpg"
+      ]
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 19
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 20
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 21
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 22
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 23
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 24
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 25
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 26
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 27
+    },
+    {
+      "email": "max@test.com",
+      "password": "12345",
+      "id": 28
+    },
+    {
+      "method": "post",
+      "body": "{\"email\":\"max@test.com\",\"password\":\"12345\"}",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "id": 29
+    },
+    {
+      "body": "{\"email\":\"max@test.com\",\"password\":\"12345\"}",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "id": 30
+    },
+    {
+      "body": "{\"email\":\"max@test.com\",\"password\":\"12345\"}",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "id": 31
+    },
+    {
+      "body": "{\"email\":\"max@test.com\",\"password\":\"12345\"}",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "id": 32
+    }
+  ]
+}
